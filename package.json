@@ -1,7 +1,7 @@
 {
-  "name": "mylib",
-  "version": "1.0.0",
-  "main": "index.js",
+  "name": "rdm-my-lib",
+  "version": "1.0.1",
+  "main": "/src/lib/index.js",
   "type": "module",
   "scripts": {
     "start": "node ./src/lib/index.js",
